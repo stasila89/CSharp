@@ -74,5 +74,3 @@ while (distance > 10)
 Console.Write("Собака пробежала ");
 Console.Write(count);
 Console.WriteLine(" раз!");
-
-
