@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "1stDocumet/1.0.0": {
+        "runtime": {
+          "1stDocumet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1stDocumet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

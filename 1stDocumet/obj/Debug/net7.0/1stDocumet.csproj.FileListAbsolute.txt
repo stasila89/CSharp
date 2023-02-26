@@ -1,0 +1,15 @@
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/bin/Debug/net7.0/1stDocumet
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/bin/Debug/net7.0/1stDocumet.deps.json
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/bin/Debug/net7.0/1stDocumet.runtimeconfig.json
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/bin/Debug/net7.0/1stDocumet.dll
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/bin/Debug/net7.0/1stDocumet.pdb
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/1stDocumet.csproj.AssemblyReference.cache
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/1stDocumet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/1stDocumet.AssemblyInfoInputs.cache
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/1stDocumet.AssemblyInfo.cs
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/1stDocumet.csproj.CoreCompileInputs.cache
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/1stDocumet.dll
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/refint/1stDocumet.dll
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/1stDocumet.pdb
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/1stDocumet.genruntimeconfig.cache
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/1stDocumet/obj/Debug/net7.0/ref/1stDocumet.dll
