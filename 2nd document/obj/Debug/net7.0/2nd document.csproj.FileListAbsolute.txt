@@ -1,0 +1,15 @@
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/bin/Debug/net7.0/2nd document
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/bin/Debug/net7.0/2nd document.deps.json
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/bin/Debug/net7.0/2nd document.runtimeconfig.json
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/bin/Debug/net7.0/2nd document.dll
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/bin/Debug/net7.0/2nd document.pdb
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/2nd document.csproj.AssemblyReference.cache
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/2nd document.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/2nd document.AssemblyInfoInputs.cache
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/2nd document.AssemblyInfo.cs
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/2nd document.csproj.CoreCompileInputs.cache
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/2nd document.dll
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/refint/2nd document.dll
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/2nd document.pdb
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/2nd document.genruntimeconfig.cache
+/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2nd document/obj/Debug/net7.0/ref/2nd document.dll
