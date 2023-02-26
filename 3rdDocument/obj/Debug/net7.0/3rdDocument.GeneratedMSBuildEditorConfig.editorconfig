@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _2nd_document
-build_property.ProjectDir = /Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2ndDocument/
+build_property.RootNamespace = _3rdDocument
+build_property.ProjectDir = /Users/Stas/Documents/GeekBrains/CSharp/Seminar1/3rdDocument/

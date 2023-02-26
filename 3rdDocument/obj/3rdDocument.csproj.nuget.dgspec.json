@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2ndDocument/2nd document.csproj": {}
+    "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/3rdDocument/3rdDocument.csproj": {}
   },
   "projects": {
-    "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2ndDocument/2nd document.csproj": {
+    "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/3rdDocument/3rdDocument.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2ndDocument/2nd document.csproj",
-        "projectName": "2nd document",
-        "projectPath": "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2ndDocument/2nd document.csproj",
+        "projectUniqueName": "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/3rdDocument/3rdDocument.csproj",
+        "projectName": "3rdDocument",
+        "projectPath": "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/3rdDocument/3rdDocument.csproj",
         "packagesPath": "/Users/Stas/.nuget/packages/",
-        "outputPath": "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/2ndDocument/obj/",
+        "outputPath": "/Users/Stas/Documents/GeekBrains/CSharp/Seminar1/3rdDocument/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Stas/.nuget/NuGet/NuGet.Config"
