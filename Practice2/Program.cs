@@ -1,17 +1,11 @@
-﻿Console.WriteLine("Введите любое целое число от 1 до 7:");
+﻿ Console.WriteLine("Введите любое целое число от 1 до 7:");
 int Day = int.Parse(Console.ReadLine() ?? "");
 
-if ((Day<1) | (Day>7))
-{
-    Console.Write("Ошибка");
-}
-else
-{
-    if (Day==1) { Console.Write("Понедельник"); }
-    if (Day==2) { Console.Write("Вторник"); }
-    if (Day==3) { Console.Write("Среда"); }
-    if (Day==4) { Console.Write("Четверг"); }
-    if (Day==5) { Console.Write("Пятница"); }
-    if (Day==6) { Console.Write("Суббота"); }
-    if (Day==7) { Console.Write("Воскресенье"); }
-}
+if ((Day<1) || (Day>7)) Console.Write("Ошибка");
+else if (Day==1) Console.Write($"{Day} -> Понедельник");
+else if (Day==2) Console.Write($"{Day} -> Вторник");
+else if (Day==3) Console.Write($"{Day} -> Среда"); 
+else if (Day==4) Console.Write($"{Day} -> Четверг"); 
+else if (Day==5) Console.Write($"{Day} -> Пятница");
+else if (Day==6) Console.Write($"{Day} -> Суббота"); 
+else if (Day==7) Console.Write($"{Day} -> Воскресенье"); 
